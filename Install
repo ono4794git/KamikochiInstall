@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>
-        <a href="itms-services://?action=download-manifest&url=https://EXAMPLE.com">Tapして Kamikochi アプリをインストール</a>
+        <a href="itms-services://?action=download-manifest&url=https://github.com/ono4794git/KamikochiAdHoc.git/manifest.plist">Tapして Kamikochi アプリをインストール</a>
     </h1>
 
 </body>
